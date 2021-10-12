@@ -1,0 +1,2 @@
+# UcgenAlan
+Üçgen alanı hesaplama
